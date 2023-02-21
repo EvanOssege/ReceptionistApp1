@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+import Foundation
+import Alamofire
 
 struct ContentView: View {
     var body: some View {
